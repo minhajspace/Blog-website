@@ -34,3 +34,8 @@ h2 {
   font-size: 25px;
   margin-bottom: 5px;
 }
+
+.image-size {
+  height: 100px;
+  width: 100px;
+}

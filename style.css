@@ -1,0 +1,21 @@
+body {
+  font-family: helvetica, Arial;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3 {
+  color: green;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+p {
+  content: justify;
+}
